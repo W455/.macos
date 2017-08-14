@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/oukrifa/Piscine_C/J11/ex11'
+let g:netrw_dirhist_2='/Users/oukrifa/Piscine_C/J11'
+let g:netrw_dirhist_3='/Users/oukrifa/Piscine_C/J11/ex12'
+let g:netrw_dirhist_4='/Users/oukrifa/exam-basedir/rendu/print_memory'
+let g:netrw_dirhist_5='/Users/oukrifa/examen'
+let g:netrw_dirhist_6='/Users/oukrifa/examen/level5'
+let g:netrw_dirhist_7='/Users/oukrifa/examen/level5/ft_itoa_base'
